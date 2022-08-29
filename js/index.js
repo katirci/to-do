@@ -9,7 +9,6 @@ const toDo = document.querySelectorAll(".to-do-list");
 const toDoAddingLocation = document.querySelector(".select-box-container");
 
 eventlisteners();
-
 function eventlisteners(){                              // All event 
     toDoAddingForm.addEventListener("submit",toDoAdding);
     document.addEventListener("DOMContentLoaded",addNumbersAsOption);
