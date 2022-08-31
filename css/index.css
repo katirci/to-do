@@ -56,7 +56,7 @@ body {
   width: 40%;
   border: 2px solid cyan;
   -webkit-box-shadow: 1px 1px cyan;
-          box-shadow: 1px 1px cyan;
+  box-shadow: 1px 1px cyan;
   border-radius: 4px;
   outline: none;
   margin-bottom: 30px;
